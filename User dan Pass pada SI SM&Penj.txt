@@ -1,0 +1,50 @@
+Sebelum menggunakan Aplikasi ini terlebih dahulu harus menginstal XAMPP..
+Cara Menginstal XAMPP terdapat pada folder Laporan TA yaitu Lampiran pada file DPL Siap Sidang di bab 8 halaman terakhir pada dpl.
+
+Cara membuka app ialah :
+localhost/tahanif/admin/login
+
+lalu mengetikkan user dan password sebagai berikut :
+untuk admin
+username : admin
+Pass : 123456
+
+untuk Kasi Pemerintah
+username : kasip
+Pass : 123456
+
+untuk kasubag umum dan kepegawaian
+username : kasubagu
+Pass : 123456
+
+untuk kasi ekbang-lh
+username : kasie
+Pass : 123456
+
+untuk Kasi kesos
+username : kasike
+Pass : 123456
+
+untuk kasi pemberdayaan
+username : kasipember
+Pass : 123456
+
+untuk kasi trantib
+username : kasitran
+Pass : 123456
+
+untuk pertanahan
+username : pertanahan
+Pass : 123456
+
+untuk kasubag keuangan & program
+username : kasubagkeu
+Pass : 123456
+
+untuk sekcam
+username : sekcam
+Pass : 123456
+
+untuk Ketua camat
+username : camat
+Pass : 123456
