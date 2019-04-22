@@ -2,7 +2,7 @@
 
 username : admin Password : 123456
 
-Untuk Username lain dengan password yang sama yaitu 123456
+Untuk Username lain dengan password yang sama yaitu 123456 (lihat pada database)
 
 Software Yang dibutuhkan
 Browser(Google Chrome, Mozila, atau yang lainnya)
